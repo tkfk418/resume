@@ -19,8 +19,8 @@
 + 영등포구건강가정지원센터
     + 기간: 2020. 1 ~ 2020. 12
     + 내용: 1인가구지원사업 (1인가구 상담, 1인가구 맞춤 프로그램 기획 및 진행)
-![poster](/image/혼자꽃필무렵_포스터.jpg)
-![leaflet](/image/혼자꽃필무렵_리플렛.jpg)
+<img src="/image/혼자꽃필무렵_포스터.jpg" width="40%" height="30%" alt="poster"></img><br/>
+<img src="/image/혼자꽃필무렵_리플렛.jpg" width="40%" height="30%"  alt="poster"></img>
 이디야 카페
 기간: 2018. 3 ~ 2018.7
 내용: 커피 제조 및 매장 관리
