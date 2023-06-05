@@ -26,5 +26,5 @@
     + 내용: aba 치료
 
 # 책 출간
-+ Streamlit으로 프로젝트 한방에 끝내기 with 파이썬](2023, Sara & Evan)
-<img src="/image/book.jpg" width="40%" height="30%"  alt="poster"></img>
++ [Streamlit으로 프로젝트 한방에 끝내기 with 파이썬](2023, Sara & Evan)
+<img src="/image/book.jpg" width="60%" height="50%"  alt="poster"></img>
