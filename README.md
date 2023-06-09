@@ -1,11 +1,11 @@
 심리상담 업계에서 일하다, 데이터 분석 및 코딩에 전문적 소양을 갖추는 것이 다른 방식으로 사회에 도움이 될 수 있겠다 싶어 데이터 공부를 시작했습니다. 퇴사 후 22년 10월부터 데이터 분석 및 코딩 공부를 하고 있습니다. Python과 JAVA를 사용할 줄 알며, SQL도 꾸준히 공부하고 있습니다. Tableau 및 Streamlit 을 활용하여 데이터를 시각화하는 일에 흥미가 있습니다.
 
-# 기본 정보
+## 기본 정보
 - 이름 : 정사라
 - 이메일 : tkfk418@naver.com
 - 블로그 : https://tkfk418.tistory.com/
 
-# 학력
+## 학력
 + 2011.02. 화정고등학교 졸업
 + 2016.02. 서울여자대학교 아동학, 기독교학 복수 전공
 + 2018.08. 서울여자대학교 기독교 사회복지 대학원 가족상담학과 졸업
@@ -17,9 +17,10 @@
     - 교육 내용 : JAVA, Python, R, 머신러닝, Oracle 등
     [자세히 보기](https://github.com/tkfk418/human_edu)
 
-# 책 출간
-### [Streamlit으로 프로젝트 한방에 끝내기 with 파이썬](2023, Sara & Evan)
+## 책 출간
+#### [Streamlit으로 프로젝트 한방에 끝내기 with 파이썬](2023, Sara & Evan)
 <img src="/image/book.jpg" width="60%" height="50%"  alt="poster"></img>
+[책소개 자세히 보기](https://tkfk418.tistory.com/entry/%E3%85%8A%E3%85%8D%E3%85%8C)
 
 # 경력
 ### 서울여자대학교 가족상담센터
